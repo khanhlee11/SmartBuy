@@ -24,7 +24,7 @@ public class Response {
 
     //pagination
     private Integer totalPages;
-    private String totalElements;
+    private Long totalElements;
 
     //output
     private UserDTO user;
